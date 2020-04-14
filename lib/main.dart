@@ -289,7 +289,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   children: <Widget>[
                     rowInfoBox(
                       title: "total cases",
-                      data: total_cases,
+                      data: totalcases,
                       color: Colors.orange,
                       icon: Entypo.emoji_sad,
                     ),
