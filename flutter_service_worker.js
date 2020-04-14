@@ -30,7 +30,7 @@ const RESOURCES = {
 "assets/packages/flutter_vector_icons/fonts/FontAwesome5_Solid.ttf": "b70cea0339374107969eb53e5b1f603f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/FontManifest.json": "c1a3ccebb52744f3dff92a4a18cd43fa",
-"main.dart.js": "6bf8f8579824ec62d97a9baac74e5106",
+"main.dart.js": "3940db2472ca693b9b7b06bda6ada6de",
 "index.html": "b00096bbc0da2158671d08587a4f9422",
 "/": "b00096bbc0da2158671d08587a4f9422"
 };
