@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
-      theme: ThemeData.dark(),
+      theme: ThemeData.light(),
       home: MyHomePage(title: 'Total Number Of Coronavirus Cases'),
     );
   }
@@ -166,8 +166,9 @@ class _MyHomePageState extends State<MyHomePage> {
                 getInfoBox(
                   textValue: location["confirmed"],
                   icon: Entypo.emoji_sad,
+                  //icon:Icon(Image.asset('assets/confirmed_cases.png',),),
                   color: Colors.orange,
-                ),
+                ),  
                 getInfoBox(
                   textValue: location["recovered"],
                   icon: Entypo.emoji_happy,
