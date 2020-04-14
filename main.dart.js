@@ -27558,7 +27558,7 @@ ges:function(){return C.tC}}
 R.yB.prototype={
 bt:function(a){return R.ae9(a,0,a.length)}}
 F.zr.prototype={
-I:function(a){return new S.r3(new F.rh("India Corona Virus Updates",null),"Flutter Demo",X.a5y(C.J),!1,null)}}
+I:function(a){return new S.r3(new F.rh("Total Number Of Coronavirus Cases",null),"Flutter Demo",X.a5y(C.J),!1,null)}}
 F.rh.prototype={
 aB:function(){return new F.F8([],C.l)}}
 F.F8.prototype={
