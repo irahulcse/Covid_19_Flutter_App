@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
     dynamic coronaData = jsonDecode(data.body);
 
     setState(() {
-      total_cases = coronaData["confirmed"]["value"];
+      totalcases = coronaData["confirmed"]["value"];
       recovered = coronaData["recovered"]["value"];
       deaths = coronaData["deaths"]["value"];
       isLoading = false;
