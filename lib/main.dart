@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData.dark(),
-      home: MyHomePage(title: 'India Corona Virus Updates'),
+      home: MyHomePage(title: 'Total Number Of Coronavirus Cases'),
     );
   }
 }
